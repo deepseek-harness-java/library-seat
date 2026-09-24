@@ -1,0 +1,6 @@
+id: study-copilot
+name: AI 自习室管家
+version: 1.0.0
+author: xfg-studio
+description: AI 自习室管家，支持座位查询推荐（四区域/座位类型）、预约（二次确认/违约资格校验）、到馆签到（时限规则）、我的预约与违约记录、人流统计与错峰建议。
+entrypoint: cn.xiaofuge.s.plugin.StudyPlugin

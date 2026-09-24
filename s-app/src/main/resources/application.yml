@@ -1,0 +1,12 @@
+server:
+  port: 18100
+spring:
+  application:
+    name: library-seat
+  mvc:
+    async:
+      request-timeout: 180s
+s:
+  assistant:
+    harness-base-url: http://127.0.0.1:8090
+    agent-id: study-copilot
